@@ -1,0 +1,213 @@
+.body {
+background-color: #E5E5E5;
+padding: 40px;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: row-reverse;
+	background: white;
+	width: 1200px;
+	margin: 0 auto;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	}
+
+/* Main content */
+
+.main_content {
+	padding-top: 88px;
+	padding-bottom: 88px;
+	padding-left: 88px;
+	padding-right: 88px;
+}
+
+/*About me*/
+
+.my_profession {
+font-style: normal;
+font-weight: 700px;
+font-size: 14px;
+line-height: 17px;
+margin: 0 0 18px 0;
+}
+
+.my_name {
+font-style: normal;
+font-weight: 700px;
+font-size: 45px;
+line-height: 55px;
+color: blue;
+margin: 0 0 28px 0;
+}
+
+.description {
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+color: blue;
+width: 525px;
+}
+
+
+/* Work_experience */
+
+.experience_conteiner {
+
+}
+
+.main_content_title {
+color: blue;
+}
+
+.experience_place {
+margin-bottom: 16px;
+color: blue;
+}
+
+.about_me_cont {
+margin-bottom: 64px;
+}
+
+.experience_position {
+font-style: normal;
+font-weight: 700px;
+font-size: 16px;
+line-height: 20px;
+color: blue;
+}
+
+.period {
+font-style: normal;
+font-weight: 400px;
+font-size: 12px;
+line-height: 15px;
+color: blue;
+margin: 12px 0 8px 0;
+}
+
+.duties {
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+color: blue;
+}
+
+.duties-list {
+padding: 0 0 0 14px;
+margin: 0;
+}
+
+/* Education */
+
+.education_place {
+font-style: normal;
+font-weight: 700px;
+font-size: 16px;
+line-height: 20px;
+color: blue;
+margin: 12px 0 12px 0;
+}
+
+.education_profile {
+font-style: normal;
+font-weight: 700px;
+font-size: 14px;
+line-height: 17px;
+color: blue;
+margin: 0 0 12px 0;
+}
+
+.education_period {
+font-style: normal;
+font-weight: 400px;
+font-size: 12px;
+line-height: 12px;
+color: blue;
+}
+
+
+h2 {
+	color: blue;
+}
+
+/*Sidebar*/
+
+.sidebar {
+	width: 350px;
+	background: blue;
+
+}
+
+.photo {
+margin-top: 40px;
+
+}
+
+.contacts_conteiner,
+.skills {
+margin: 48px 0 0 40px;
+color: white;
+}
+
+.sidebar_title {
+font-style: normal;
+font-weight: 700px;
+font-size: 22px;
+line-height: 27px;
+color: white;
+margin-bottom: 8px;
+}
+
+/* Contacts */
+.contacts_type {
+font-style: normal;
+font-weight: 700px;
+font-size: 22px;
+line-height: 27px;
+color: white;
+margin-right: 4px;
+}
+
+.contacts_item {
+margin: 0;
+}
+
+.contacts_number {
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+color: white;
+}
+
+.contacts_mail {
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+color: white;
+}
+
+.contacts_link {
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+color: white;
+}
+
+.skills_list {
+margin: 0;
+padding: 0 0 0 12px;
+}
+
+.skills_list_item {
+color: white;
+}
+
+
+
+
+}
